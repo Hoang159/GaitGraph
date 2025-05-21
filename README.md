@@ -29,6 +29,7 @@ GaitGraph/
 │   ├── 1_Train.ipynb               # Notebook train model
 │   ├── 2_Evaluate_model.ipynb      # Notebook evaluate model
 │   ├── 3_Embedding_vector.ipynb    # Notebook đánh giá model bằng hiển thị trực quan  
-└── README.md                       # Hướng dẫn chi tiết
-└── HDSD_Code_Nhom6.docx            # Hướng dẫn sử dụng code
+├── .gitignore                      # Từ chối up các file csv ở data vì kích thước lớn
+├── HDSD_Code_Nhom6.docx            # Hướng dẫn sử dụng code
+└── README.md                       # Hướng dẫn tổng quan
 ```
